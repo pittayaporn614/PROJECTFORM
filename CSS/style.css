@@ -1,0 +1,68 @@
+input {
+    background-color: pink;
+    border-width: 1px;
+    border-style: solid;
+    color: blue;
+    padding: 5px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+lebel {
+    font-size: 20px;
+}
+
+legend {
+    font-size: 30px;
+    border-color: darkred;
+    width:fit-content;
+    color: darkgreen;
+}
+
+input [type="text"],
+[type="email"],
+[type="date"] {
+    background-color: pink;
+    border-width: 1px;
+    border-style: solid;
+    color: blue;
+    padding: 5px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+input[type="text"]:focus {
+    background-color: lightblue;
+}
+
+ lebel {
+     font-size: 20px;
+ }
+
+legend {
+     font-size: 30px;
+     border-color: darkred;
+     width: fit-content;
+     color:darkgreen ;
+ }
+
+ .subre {
+     background-color: navy;
+     color: white;
+ }
+ 
+ input [type="text"],
+        [type=sumit],
+        [type=reset] {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
